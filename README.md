@@ -54,6 +54,8 @@ python3 client.py
 
 6. Text from the Client first.
 
+7. For quitting text "exit"/"EXIT" from any end and the program quits.
+
 Thats it. Now chat continuously.
 
 
